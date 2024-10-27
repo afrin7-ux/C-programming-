@@ -1,0 +1,8 @@
+#include(stdio.h)
+int main()
+{
+   printf("Name\t:Afrin Shaikh \n");
+   printf("Age\t:18\n");      printf("UIN\t:240S015\n");
+  printf("Branch\t:ECS\n");
+return 0;
+}
